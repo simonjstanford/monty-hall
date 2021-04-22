@@ -1,0 +1,6 @@
+C:\Users\Simon\source\repos\ConsoleApp9\MontyHallProblem\bin\Debug\ConsoleApp9.exe.config
+C:\Users\Simon\source\repos\ConsoleApp9\MontyHallProblem\bin\Debug\ConsoleApp9.exe
+C:\Users\Simon\source\repos\ConsoleApp9\MontyHallProblem\bin\Debug\ConsoleApp9.pdb
+C:\Users\Simon\source\repos\ConsoleApp9\MontyHallProblem\obj\Debug\MontyHallProblem.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\ConsoleApp9\MontyHallProblem\obj\Debug\ConsoleApp9.exe
+C:\Users\Simon\source\repos\ConsoleApp9\MontyHallProblem\obj\Debug\ConsoleApp9.pdb
